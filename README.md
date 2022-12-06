@@ -3,7 +3,7 @@ Built with ROS Melodic
 ---
 
 ## How to build:
-Clone repository to `catkin_ws/src/<your_folder>` and return to catkin_ws then run
+Clone repository to `catkin_ws/src/<your_folder>` and return to `catkin_ws` then run
 ```
 catkin_make
 ```
